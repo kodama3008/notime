@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "316571064.2076328",
+    "hpc1s91.auto_engreq": 2,
+    "hpc1s91.resv390_03": 0,
+    "hpc1s91.resv390_04": 0,
+    "hpc1s91.resv390_05": 0,
+    "hpc1s91.resv390_06": 0,
+    "hpc1s91.resv390_07": 0,
+    "hpc1s91.resv390_08": 0,
+    "hpc1s91.resv390_09": 0,
+    "hpc1s93.resv390_10": 0
+  },
+  {
+    "timestamp": "316571065.6228777",
+    "hpc1s91.auto_engreq": 3,
+    "hpc1s91.resv390_03": 1,
+    "hpc1s91.resv390_04": 2,
+    "hpc1s91.resv390_05": 3,
+    "hpc1s91.resv390_06": 4,
+    "hpc1s91.resv390_07": 5,
+    "hpc1s91.resv390_08": 6,
+    "hpc1s91.resv390_09": 7,
+    "hpc1s93.resv390_10": 8
+  },
+  {
+    "timestamp": "316571066.99999999",
+    "hpc1s91.auto_engreq": 4,
+    "hpc1s91.resv390_03": 0,
+    "hpc1s91.resv390_04": 1,
+    "hpc1s91.resv390_05": 0,
+    "hpc1s91.resv390_06": 1,
+    "hpc1s91.resv390_07": 0,
+    "hpc1s91.resv390_08": 1,
+    "hpc1s91.resv390_09": 0,
+    "hpc1s93.resv390_10": 1
+  }
+]
